@@ -224,6 +224,8 @@ This project is licensed under the MIT License.
 
 **Oussama Ghajdaoui Alaoui**
 
+Master's Student in Intelligent Systems
+
 Machine Learning • Data Science • Artificial Intelligence
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
