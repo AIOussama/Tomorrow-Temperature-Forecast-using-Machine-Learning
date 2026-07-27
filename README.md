@@ -151,7 +151,7 @@ Tomorrow-Temperature-Forecast/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Tomorrow-Temperature-Forecast.git
+git clone https://github.com/AIOussama/Tomorrow-Temperature-Forecast-using-Machine-Learning.git
 ```
 
 Install the required packages:
